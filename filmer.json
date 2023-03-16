@@ -1,202 +1,257 @@
 [
-    {
-        "name": "Zodiac",
-        "source": "HBO Max"
-    },
-    {
-        "name": "The last of us",
-        "source": "HBO Max"
-    },
-    {
-        "name": "Jack Ryan S2",
-        "source": "Amazon Prime"
-    },
-    {
-        "name": "Jack Ryran S3",
-        "source": "Amazon Prime"
-    },
-    {
-        "name": "The Hobbit",
-        "source": "Amazon"
-    },
-    {
-        "name": "The Hobbit Desolation of Smaug",
-        "source": "Amazon"
-    },
-    {
-        "name": "The OA",
-        "source": "Netflix"
-    },
-    {
-        "name": "Salvation",
-        "source": "Netflix"
-    },
-    {
-        "name": "What/If",
-        "source": "Netflix"
-    },
-    {
-        "name": "Queens Gambit",
-        "source": "Netflix"
-    },
-    {
-        "name": "Stranger Things",
-        "source": "Netflix"
-    },
-    {
-        "name": "Colony",
-        "source": "Netflix"
-    },
-    {
-        "name": "The wolf of wallstreet",
-        "source": "Netflix"
-    },
-    {
-        "name": "Hunger Games",
-        "source": "Netflix"
-    },
-    {
-        "name": "Tinder Swindler",
-        "source": "Netflix"
-    },
-    {
-        "name": "Purple Hearts",
-        "source": "Netflix"
-    },
-    {
-        "name": "Jason Bourne",
-        "source": "Netflix"
-    },
-    {
-        "name": "Passengers",
-        "source": "Netflix"
-    },
-    {
-        "name": "How to sell drugs online",
-        "source": "Netflix"
-    },
-    {
-        "name": "Bill Gates",
-        "source": "Netflix"
-    },
-    {
-        "name": "Sweet Tooth",
-        "source": "Netflix"
-    },
-    {
-        "name": "The social network",
-        "source": "Netflix"
-    },
-    {
-        "name": "How it ends",
-        "source": "Netflix"
-    },
-    {
-        "name": "The Devil all the time",
-        "source": "Netflix"
-    },
-    {
-        "name": "Red Notice",
-        "source": "Netflix"
-    },
-    {
-        "name": "Cast Away",
-        "source": "Netflix"
-    },
-    {
-        "name": "Aviator",
-        "source": "Netflix"
-    },
-    {
-        "name": "Moneyball",
-        "source": "Netflix"
-    },
-    {
-        "name": "The terminal list",
-        "source": "Amazon Prime"
-    },
-    {
-        "name": "The Lord of the rings",
-        "source": "Amazon Prime"
-    },
-    {
-        "name": "Chuck",
-        "source": "Amazon Prime"
-    },
-    {
-        "name": "Good will hunting",
-        "source": "Viaplay"
-    },
-    {
-        "name": "Once Upon a time in Hollywood",
-        "source": "Viaplay"
-    },
-    {
-        "name": "Et sted å høre til",
-        "source": "Viaplay"
-    },
-    {
-        "name": "Legend",
-        "source": "Viaplay"
-    },
-    {
-        "name": "The Age of Adaline",
-        "source": "Viaplay"
-    },
-    {
-        "name": "Youth",
-        "source": "Viaplay"
-    },
-    {
-        "name": "Lion",
-        "source": "Viaplay"
-    },
-    {
-        "name": "The End of the tour",
-        "source": "Youtube"
-    },
-    {
-        "name": "Jexi",
-        "source": "Youtube"
-    },
-    {
-        "name": "Black Panther - Wakanda Forever",
-        "source": "Disney Plus"
-    },
-    {
-        "name": "Australia",
-        "source": "Disney Plus"
-    },
-    {
-        "name": "Agents of Shield",
-        "source": "Disney Plus"
-    },
-    {
-        "name": "Harry Potter",
-        "source": "HBO Max"
-    },
-    {
-        "name": "Fantastic Beasts",
-        "source": "HBO Max"
-    },
-    {
-        "name": "Band of Brothers",
-        "source": "HBO Max"
-    },
-    {
-        "name": "The Pacific",
-        "source": "HBO Max"
-    },
-    {
-        "name": "Headhunters",
-        "source": "HBO Max"
-    },
-    {
-        "name": "Billions",
-        "source": "HBO Max"
-    },
-    {
-        "name": "You",
-        "source": "Netflix"
-    }
+  {
+    "name": "Zodiac",
+    "source": "HBO Max",
+    "type": "film"
+  },
+  {
+    "name": "The last of us",
+    "source": "HBO Max",
+    "type": "serie"
+  },
+  {
+    "name": "Jack Ryan S2",
+    "source": "Amazon Prime",
+    "type": "serie"
+  },
+  {
+    "name": "Jack Ryran S3",
+    "source": "Amazon Prime",
+    "type": "serie"
+  },
+  {
+    "name": "The Hobbit",
+    "source": "Amazon",
+    "type": "film"
+  },
+  {
+    "name": "The Hobbit Desolation of Smaug",
+    "source": "Amazon",
+    "type": "film"
+  },
+  {
+    "name": "The OA",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "Salvation",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "What/If",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "Queens Gambit",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "Stranger Things",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "Colony",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "The wolf of wallstreet",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Hunger Games",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Tinder Swindler",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Purple Hearts",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Jason Bourne",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Passengers",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "How to sell drugs online",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "Bill Gates",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "Sweet Tooth",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "The social network",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "How it ends",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "The Devil all the time",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Red Notice",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Cast Away",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Aviator",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "Moneyball",
+    "source": "Netflix",
+    "type": "film"
+  },
+  {
+    "name": "The terminal list",
+    "source": "Amazon Prime",
+    "type": "serie"
+  },
+  {
+    "name": "The Lord of the rings",
+    "source": "Amazon Prime",
+    "type": "film"
+  },
+  {
+    "name": "Chuck",
+    "source": "Amazon Prime",
+    "type": "serie"
+  },
+  {
+    "name": "Good will hunting",
+    "source": "Viaplay",
+    "type": "film"
+  },
+  {
+    "name": "Once Upon a time in Hollywood",
+    "source": "Viaplay",
+    "type": "film"
+  },
+  {
+    "name": "Et sted å høre til",
+    "source": "Viaplay",
+    "type": "serie"
+  },
+  {
+    "name": "Legend",
+    "source": "Viaplay",
+    "type": "film"
+  },
+  {
+    "name": "The Age of Adaline",
+    "source": "Viaplay",
+    "type": "film"
+  },
+  {
+    "name": "Youth",
+    "source": "Viaplay",
+    "type": "film"
+  },
+  {
+    "name": "Lion",
+    "source": "Viaplay",
+    "type": "film"
+  },
+  {
+    "name": "The End of the tour",
+    "source": "Youtube",
+    "type": "film"
+  },
+  {
+    "name": "Jexi",
+    "source": "Youtube",
+    "type": "film"
+  },
+  {
+    "name": "Black Panther - Wakanda Forever",
+    "source": "Disney Plus",
+    "type": "film"
+  },
+  {
+    "name": "Australia",
+    "source": "Disney Plus",
+    "type": "film"
+  },
+  {
+    "name": "Agents of Shield",
+    "source": "Disney Plus",
+    "type": "serie"
+  },
+  {
+    "name": "Harry Potter",
+    "source": "HBO Max",
+    "type": "film"
+  },
+  {
+    "name": "Fantastic Beasts",
+    "source": "HBO Max",
+    "type": "film"
+  },
+  {
+    "name": "Band of Brothers",
+    "source": "HBO Max",
+    "type": "serie"
+  },
+  {
+    "name": "The Pacific",
+    "source": "HBO Max",
+    "type": "serie"
+  },
+  {
+    "name": "Headhunters",
+    "source": "HBO Max",
+    "type": "film"
+  },
+  {
+    "name": "Billions",
+    "source": "HBO Max",
+    "type": "serie"
+  },
+  {
+    "name": "You",
+    "source": "Netflix",
+    "type": "serie"
+  },
+  {
+    "name": "Yellowstone",
+    "source": "TV2 Play",
+    "type": "serie"
+  }
 ]
