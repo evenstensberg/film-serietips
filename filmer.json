@@ -253,5 +253,10 @@
     "name": "Yellowstone",
     "source": "TV2 Play",
     "type": "serie"
+  },
+  {
+    "name": "Goal",
+    "source": "Disney Plus",
+    "type": "film"
   }
 ]
